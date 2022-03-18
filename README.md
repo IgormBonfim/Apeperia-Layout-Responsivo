@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Projeto Apeperia
+Projeto desenvolvido durante o curso de Layout Responsivo na Alura.
